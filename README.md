@@ -5,7 +5,8 @@
 ---
 
 <img src="images/inUse.gif" width="1080">
-A python Radial Basis Function solver plugin in Maya with UI for shape registration for a university project.  
+A python Radial Basis Function solver plugin in Maya with UI for shape registration;  
+Scripted for a university project.  
 
 ---
 
@@ -35,8 +36,8 @@ A python Radial Basis Function solver plugin in Maya with UI for shape registrat
    - Go to Preferences -> Plugin Manager.
    - Load in **`RBF_Solver.py`** and **`register_deformer.py`** as plugin.
    - Run **`register_tool.py`** in script editor to open GUI.
-3. Manual Instruction
-   - See from **`Synopsis`**.
+3. Manual Instruction on tool prototype
+   - See from **`Synopsis`** video.
    
 ---
 
