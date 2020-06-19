@@ -4,6 +4,7 @@
 ## Synopsis
 ---
 
+<img src="images/inUse.gif" width="1080">
 A python Radial Basis Function solver plugin in Maya with UI for shape registration for a university project.  
 
 ---
