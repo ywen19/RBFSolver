@@ -32,7 +32,7 @@ Scripted for a university project.
 1. To Download/Clone
    - You can download the folder or clone with https://github.com/ywen19/RBFSolver.git .
 2. Setup
-   - Open Maya; Make sure numpy can be imported into Maya (**`import numpy`**).
+   - Open Maya; Make sure numpy has been added to Maya so can be imported by (**`import numpy`**).
    - Go to Preferences -> Plugin Manager.
    - Load in **`RBF_Solver.py`** and **`register_deformer.py`** as plugin.
    - Run **`register_tool.py`** in script editor to open GUI.
